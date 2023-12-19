@@ -1,0 +1,15 @@
+#head{
+    font-style: oblique;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgb(28, 163, 247);
+    font-weight: bolder;
+}
+
+@media screen and (max-width:500px){
+    .container{
+    max-width: 500px;
+    text-align: center;
+    padding: 20px;
+    } 
+}
+
